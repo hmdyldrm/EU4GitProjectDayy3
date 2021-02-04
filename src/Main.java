@@ -5,6 +5,7 @@ public class Main {
         //some notes
         System.out.println("after second commit");
 
+        System.out.println("before push");
 
     }
 }
